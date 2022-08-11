@@ -1,0 +1,10 @@
+div.textArea {
+  background-color: white;
+}
+
+div.textArea > div > textarea {
+  resize: none;
+  border: 0;
+  outline: 0;
+  min-height: 10vh;
+}

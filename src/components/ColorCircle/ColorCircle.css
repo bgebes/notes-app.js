@@ -1,0 +1,8 @@
+div.selectedColor::before {
+  content: '✓';
+  margin: 3px 0;
+  display: flex;
+  opacity: 0.75;
+  justify-content: center;
+  align-items: center;
+}
